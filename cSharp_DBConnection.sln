@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cSharp_DBConnection", "cSharp_DBConnection\cSharp_DBConnection.csproj", "{4ED3D593-234D-4973-B359-7F5C0DD4344D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ED3D593-234D-4973-B359-7F5C0DD4344D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED3D593-234D-4973-B359-7F5C0DD4344D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED3D593-234D-4973-B359-7F5C0DD4344D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED3D593-234D-4973-B359-7F5C0DD4344D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B249A32B-3976-40C9-B863-83BE190A7E1D}
+	EndGlobalSection
+EndGlobal
